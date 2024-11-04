@@ -21,3 +21,8 @@
 ## Installation 
 
 i havent learnt about github and git more as of now , In future i will add all required intructions
+
+
+## Accounts to check 
+username : Admin 
+password : 123
